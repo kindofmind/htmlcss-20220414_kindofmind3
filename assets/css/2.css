@@ -1,0 +1,29 @@
+* {
+    color: white;
+
+}
+
+header {
+    background-color: red;
+    text-align: center;
+}
+
+nav {
+    background-color: orange;
+    text-align: center;
+}
+
+main {
+    background-color: green;
+    padding: 10px;
+}
+
+article {
+    background-color: blue;
+}
+
+footer {
+    background-color: fuchsia;
+    text-align: center;
+
+}
